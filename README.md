@@ -1,7 +1,7 @@
 # Программа TOR (Temporary Opened Directory)
 
 Программа TOR (Temporary Opened Directory) предоставляет простой и удобный способ управления вашими файлами и директориями. Это приложение помогает вам быстро находить и открывать файлы, особенно полезно при массовом скачивании или для доступа к свежим файлам.
-![ TOR](https://github.com/tarantin902/TOR/TOR.png)
+![ TOR](https://github.com/tarantin902/TOR.png)
 
 ## Возможности
 
